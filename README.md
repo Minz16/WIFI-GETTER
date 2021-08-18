@@ -8,8 +8,9 @@ If you are still suspicious about it, you can start the file on a empty folder a
 
 ## Releases
 
-   Art    | Version | Link
-----------|---------|-----------------
-Auto Save |         | [Holen]()
-No Saves  | v.1.1.0 | [Holen](https://github.com/Minz16/WIFI-GETTER/releases/download/v.1.1.0/WIFI-GETTER.bat)
-No Saves  | v.1.0.0 | [Holen](https://github.com/Minz16/WIFI-GETTER/releases/download/v.1.0.0/WIFI.GETTER.bat)
+   Art      | Version | Link
+------------|---------|-----------------
+Manual Save | v.2.1.0 | [Coming, one day]()
+Auto Save   | v.2.0.0 | [Holen](https://github.com/Minz16/WIFI-GETTER/releases/download/v.2.0.0/WIFI-GETTER.bat)
+No Saves    | v.1.1.0 | [Holen](https://github.com/Minz16/WIFI-GETTER/releases/download/v.1.1.0/WIFI-GETTER.bat)
+No Saves    | v.1.0.0 | [Holen](https://github.com/Minz16/WIFI-GETTER/releases/download/v.1.0.0/WIFI.GETTER.bat)
