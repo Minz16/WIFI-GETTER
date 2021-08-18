@@ -6,4 +6,4 @@ Batch file to get the wifi password. To get a little tutorial for the program, y
    Art    | Version | Link
 ----------|---------|-----------------
 Auto Save |         |
-No Saves  | v.1.0.0 | [Donwnload]()
+No Saves  | v.1.0.0 | [Holen]()
