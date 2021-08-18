@@ -12,12 +12,12 @@ goto iffer
 :iffer
 if %input%==help (goto hlp)
 if %input%==? (goto hlp)
-if %input%==credits (goto c) else (goto b)
+if %input%==credits (goto c) else (goto d)
 exit
 ----------------------------
 :c
 cls
-echo Code version 1.1.0
+echo Code version 2.0.0
 echo Copyright forever
 echo.
 echo $: £unLˆ
@@ -31,11 +31,20 @@ echo To paste the copied text, press right click again.
 echo.
 echo You will find the network key somewhere at the bottom
 echo.
+echo The password will be copied into a folder called WIFI in a file called p.txt.
+echo.
 set /p qst=Press Enter to get back 
 goto a
 -----------------------------
+:d
+if EXIST WIFI (goto extra)
+mkdir WIFI
+:extra
+cd WIFI
+goto b
+-----------------------------
 :b
-netsh wlan show profile name=%input% key=clear
+netsh wlan show profile name=%input% key=clear >> p.txt
 set /p q=Finished?(Y/N)
 if %q%==Y (goto end)
 if %q%==y (goto end)
@@ -45,7 +54,7 @@ exit
 -----------------------------
 :end
 echo thx for use
-timeout 3
+timeout 1
 exit
 -----------------------------
 $: £unLˆ
