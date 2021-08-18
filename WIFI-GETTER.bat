@@ -44,17 +44,12 @@ cd WIFI
 goto b
 -----------------------------
 :b
-netsh wlan show profile name=%input% key=clear >> p.txt
+netsh wlan show profile name=%input% key=clear > p.txt
 set /p q=Finished?(Y/N)
-if %q%==Y (goto end)
-if %q%==y (goto end)
+if %q%==Y (goto exit)
+if %q%==y (goto exit)
 if %q%==N (goto a)
 if %q%==n (goto a) else (exit)
-exit
------------------------------
-:end
-echo thx for use
-timeout 1
 exit
 -----------------------------
 $: £unLˆ
