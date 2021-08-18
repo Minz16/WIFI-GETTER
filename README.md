@@ -11,5 +11,5 @@ If you are still suspicious about it, you can start the file on a empty folder a
    Art    | Version | Link
 ----------|---------|-----------------
 Auto Save |         | [Holen]()
-No Saves  | v.1.1.0 | [Holen]()
+No Saves  | v.1.1.0 | [Holen](https://github.com/Minz16/WIFI-GETTER/releases/download/v.1.1.0/WIFI-GETTER.bat)
 No Saves  | v.1.0.0 | [Holen](https://github.com/Minz16/WIFI-GETTER/releases/download/v.1.0.0/WIFI.GETTER.bat)
