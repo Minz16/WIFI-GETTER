@@ -18,3 +18,6 @@ Manual Save | v.2.1.0 | [Latest](https://github.com/Minz16/WIFI-GETTER/releases/
 Auto Save   | v.2.0.0 | [Holen](https://github.com/Minz16/WIFI-GETTER/releases/download/v.2.0.0/WIFI-GETTER.bat)
 No Saves    | v.1.1.0 | [Holen](https://github.com/Minz16/WIFI-GETTER/releases/download/v.1.1.0/WIFI-GETTER.bat)
 No Saves    | v.1.0.0 | [Holen](https://github.com/Minz16/WIFI-GETTER/releases/download/v.1.0.0/WIFI.GETTER.bat)
+
+### INFORMATION
+For more infomartion, look at the Wiki pages
