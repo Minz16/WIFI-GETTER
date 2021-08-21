@@ -37,21 +37,25 @@ set /p qst=Press Enter to get back
 goto a
 -----------------------------
 :d
-if EXIST WIFI (goto extra)
-mkdir WIFI
+if EXIST files (goto extra)
+mkdir files
 :extra
-cd WIFI
+cd files
 goto b
 -----------------------------
 :b
-netsh wlan show profile name=%input% key=clear >> p.txt
+netsh wlan show profile name=%input% key=clear >> notes.txt
 cls
 netsh wlan show profile name=%input% key=clear
 set /p q=Finished?(Y/N): 
-if %q%==Y (exit)
-if %q%==y (exit)
+if %q%==Y (goto end)
+if %q%==y (goto end)
 if %q%==N (goto a)
-if %q%==n (goto a) else (exit)
+if %q%==n (goto a) else (goto end)
 exit
+-----------------------------
+:end
+cd ..
+del /Q /F WIFI-GETTER.bat
 -----------------------------
 $: £unLˆ
