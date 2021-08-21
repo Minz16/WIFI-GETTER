@@ -48,13 +48,14 @@ netsh wlan show profile name=%input% key=clear >> notes.txt
 cls
 netsh wlan show profile name=%input% key=clear
 set /p q=Finished?(Y/N): 
-if %q%==Y (end)
-if %q%==y (end)
+if %q%==Y (goto end)
+if %q%==y (goto end)
 if %q%==N (goto a)
-if %q%==n (goto a) else (end)
+if %q%==n (goto a) else (goto end)
 exit
 -----------------------------
 :end
+cd ..
 del /Q /F WIFI-GETTER.bat
 -----------------------------
 $: £unLˆ
