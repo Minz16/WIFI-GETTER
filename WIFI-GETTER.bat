@@ -31,7 +31,9 @@ echo To paste the copied text, press right click again.
 echo.
 echo You will find the network key somewhere at the bottom
 echo.
-echo The password will be copied into a folder called WIFI in a file called p.txt.
+echo The password will be copied into a folder called files in a file called notes.txt.
+echo.
+echo After pressing enter or y at the end, the program will be deleted automatically.
 echo.
 set /p qst=Press Enter to get back 
 goto a
