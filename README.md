@@ -9,7 +9,7 @@ But you could either copy the code, if you want to.
 
 ## Special Thanks
 
-Im thanking ┬úunL╦å for great help in programming this file.
+Im thanking ┬úunL╦å for great help in programming the most.
 
 ## Releases
 
