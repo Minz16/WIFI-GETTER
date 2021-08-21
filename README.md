@@ -23,4 +23,4 @@ No Saves     | v.1.1.0 | [Holen](https://github.com/Minz16/WIFI-GETTER/releases/
 No Saves     | v.1.0.0 | [Holen](https://github.com/Minz16/WIFI-GETTER/releases/download/v.1.0.0/WIFI.GETTER.bat)
 
 ### INFORMATION
-For more infomartion, look at the Wiki pages
+For more infomartion, look at the [Wiki pages](https://github.com/Minz16/WIFI-GETTER/wiki)
