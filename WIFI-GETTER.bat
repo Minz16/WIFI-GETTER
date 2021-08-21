@@ -17,7 +17,7 @@ exit
 ----------------------------
 :c
 cls
-echo Code version 2.2.0
+echo Code version 3.0.0
 echo Copyright forever
 echo.
 echo $: £unLˆ
