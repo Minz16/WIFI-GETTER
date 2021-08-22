@@ -7,6 +7,8 @@ Even though your PC might think this file is a virus, its not. You can simpy see
 If you are still suspicious about it, you can start the file on a empty folder and without executing it as admin. However the program is also fully useable without admin permission.
 But you could either copy the code, if you want to.
 
+## Make sure to read the disclaimers for every release
+
 ## Special Thanks
 
 Im thanking ┬úunL╦å for great help in programming the most.
