@@ -63,7 +63,6 @@ goto b
 netsh wlan show profile name=%input% key=clear >> notes.txt
 cd ..
 cls
-rem netsh wlan show profile name=%input% key=clear
 goto end
 -----------------------------
 :end
