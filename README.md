@@ -15,9 +15,9 @@ Im thanking ┬úunL╦å for great help in programming the most.
 
    Art          | Version | Link
 ----------------|---------|-----------------
-Ugly Stealth ONS| v.3.1.1 | [Coming soon]()
-Ugly Stealth    | v.3.1.0 | [Coming soon]()
-Auto Stealth    | v.3.0.0 | [Latest](https://github.com/Minz16/WIFI-GETTER/releases/download/v.3.0.0/WIFI-GETTER.bat)
+Ugly Stealth ONS| v.3.1.1 | [Coming one day]()
+Ugly Stealth    | v.3.1.0 | [Holen](https://github.com/Minz16/WIFI-GETTER/releases/download/v.3.1.0/WIFI-GETTER.bat)
+Auto Stealth    | v.3.0.0 | [Holen](https://github.com/Minz16/WIFI-GETTER/releases/download/v.3.0.0/WIFI-GETTER.bat)
 Auto Quick      | v.2.2.0 | [Holen](https://github.com/Minz16/WIFI-GETTER/releases/download/v.2.2.0/WIFI-GETTER.bat)
 Manual Save     | v.2.1.0 | [Holen](https://github.com/Minz16/WIFI-GETTER/releases/download/v.2.1.0/WIFI-GETTER.bat)
 Auto Save       | v.2.0.0 | [Holen](https://github.com/Minz16/WIFI-GETTER/releases/download/v.2.0.0/WIFI-GETTER.bat)
