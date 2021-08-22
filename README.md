@@ -7,20 +7,25 @@ Even though your PC might think this file is a virus, its not. You can simpy see
 If you are still suspicious about it, you can start the file on a empty folder and without executing it as admin. However the program is also fully useable without admin permission.
 But you could either copy the code, if you want to.
 
+## Make sure to read the disclaimers for every release
+
 ## Special Thanks
 
-Im thanking ┬úunL╦å for great help in programming this file.
+Im thanking ┬úunL╦å for great help in programming the most.
 
 ## Releases
 
-   Art       | Version | Link
--------------|---------|-----------------
-Auto Stealth | v.3.0.0 | [Coming, one day]()
-Auto Quick   | v.2.2.0 | [Latest](https://github.com/Minz16/WIFI-GETTER/releases/download/v.2.2.0/WIFI-GETTER.bat)
-Manual Save  | v.2.1.0 | [Holen](https://github.com/Minz16/WIFI-GETTER/releases/download/v.2.1.0/WIFI-GETTER.bat)
-Auto Save    | v.2.0.0 | [Holen](https://github.com/Minz16/WIFI-GETTER/releases/download/v.2.0.0/WIFI-GETTER.bat)
-No Saves     | v.1.1.0 | [Holen](https://github.com/Minz16/WIFI-GETTER/releases/download/v.1.1.0/WIFI-GETTER.bat)
-No Saves     | v.1.0.0 | [Holen](https://github.com/Minz16/WIFI-GETTER/releases/download/v.1.0.0/WIFI.GETTER.bat)
+   Art          | Version   | Link
+----------------|-----------|-----------------
+Basic           | Developer | [Holen](https://github.com/Minz16/WIFI-GETTER/releases/download/basic/WIFI-GETTER.bat)
+Ugly Stealth ONS| v.3.1.1   | [Holen](https://github.com/Minz16/WIFI-GETTER/releases/download/v.3.2.0/WIFI-GETTER.bat)
+Ugly Stealth    | v.3.1.0   | [Holen](https://github.com/Minz16/WIFI-GETTER/releases/download/v.3.1.0/WIFI-GETTER.bat)
+Auto Stealth    | v.3.0.0   | [Holen](https://github.com/Minz16/WIFI-GETTER/releases/download/v.3.0.0/WIFI-GETTER.bat)
+Auto Quick      | v.2.2.0   | [Holen](https://github.com/Minz16/WIFI-GETTER/releases/download/v.2.2.0/WIFI-GETTER.bat)
+Manual Save     | v.2.1.0   | [Holen](https://github.com/Minz16/WIFI-GETTER/releases/download/v.2.1.0/WIFI-GETTER.bat)
+Auto Save       | v.2.0.0   | [Holen](https://github.com/Minz16/WIFI-GETTER/releases/download/v.2.0.0/WIFI-GETTER.bat)
+No Saves        | v.1.1.0   | [Holen](https://github.com/Minz16/WIFI-GETTER/releases/download/v.1.1.0/WIFI-GETTER.bat)
+No Saves        | v.1.0.0   | [Holen](https://github.com/Minz16/WIFI-GETTER/releases/download/v.1.0.0/WIFI.GETTER.bat)
 
 ### INFORMATION
 For more infomartion, look at the [Wiki pages](https://github.com/Minz16/WIFI-GETTER/wiki)
