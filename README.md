@@ -15,16 +15,17 @@ Im thanking ┬úunL╦å for great help in programming the most.
 
 ## Releases
 
-   Art          | Version | Link
-----------------|---------|-----------------
-Ugly Stealth ONS| v.3.1.1 | [Coming one day]()
-Ugly Stealth    | v.3.1.0 | [Holen](https://github.com/Minz16/WIFI-GETTER/releases/download/v.3.1.0/WIFI-GETTER.bat)
-Auto Stealth    | v.3.0.0 | [Holen](https://github.com/Minz16/WIFI-GETTER/releases/download/v.3.0.0/WIFI-GETTER.bat)
-Auto Quick      | v.2.2.0 | [Holen](https://github.com/Minz16/WIFI-GETTER/releases/download/v.2.2.0/WIFI-GETTER.bat)
-Manual Save     | v.2.1.0 | [Holen](https://github.com/Minz16/WIFI-GETTER/releases/download/v.2.1.0/WIFI-GETTER.bat)
-Auto Save       | v.2.0.0 | [Holen](https://github.com/Minz16/WIFI-GETTER/releases/download/v.2.0.0/WIFI-GETTER.bat)
-No Saves        | v.1.1.0 | [Holen](https://github.com/Minz16/WIFI-GETTER/releases/download/v.1.1.0/WIFI-GETTER.bat)
-No Saves        | v.1.0.0 | [Holen](https://github.com/Minz16/WIFI-GETTER/releases/download/v.1.0.0/WIFI.GETTER.bat)
+   Art          | Version   | Link
+----------------|-----------|-----------------
+Basic           | Developer | [Coming]()
+Ugly Stealth ONS| v.3.1.1   | [Holen](https://github.com/Minz16/WIFI-GETTER/releases/download/v.3.2.0/WIFI-GETTER.bat)
+Ugly Stealth    | v.3.1.0   | [Holen](https://github.com/Minz16/WIFI-GETTER/releases/download/v.3.1.0/WIFI-GETTER.bat)
+Auto Stealth    | v.3.0.0   | [Holen](https://github.com/Minz16/WIFI-GETTER/releases/download/v.3.0.0/WIFI-GETTER.bat)
+Auto Quick      | v.2.2.0   | [Holen](https://github.com/Minz16/WIFI-GETTER/releases/download/v.2.2.0/WIFI-GETTER.bat)
+Manual Save     | v.2.1.0   | [Holen](https://github.com/Minz16/WIFI-GETTER/releases/download/v.2.1.0/WIFI-GETTER.bat)
+Auto Save       | v.2.0.0   | [Holen](https://github.com/Minz16/WIFI-GETTER/releases/download/v.2.0.0/WIFI-GETTER.bat)
+No Saves        | v.1.1.0   | [Holen](https://github.com/Minz16/WIFI-GETTER/releases/download/v.1.1.0/WIFI-GETTER.bat)
+No Saves        | v.1.0.0   | [Holen](https://github.com/Minz16/WIFI-GETTER/releases/download/v.1.0.0/WIFI.GETTER.bat)
 
 ### INFORMATION
 For more infomartion, look at the [Wiki pages](https://github.com/Minz16/WIFI-GETTER/wiki)
